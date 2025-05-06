@@ -3,6 +3,7 @@
 Este projeto é uma aplicação simples de gerenciamento de leads, desenvolvida com Node.js, Express e MongoDB no backend, e JavaScript (ESM) com React no frontend.
 
 No backend, é possível criar, listar, atualizar, consultar por ID e excluir leads armazenados em um banco de dados MongoDB.  
+
 No frontend, a aplicação permite criar, listar e excluir leads cadastrados, com uma interface desenvolvida com React, Axios para requisições HTTP e TailwindCSS para estilização.
 
 ⚠️ **Status:** Em desenvolvimento – ainda não finalizado.
