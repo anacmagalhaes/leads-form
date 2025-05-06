@@ -1,0 +1,4 @@
+leads-frontend/node_modules/*
+leads-backend/node_modules/*
+leads-frontend/.env
+leads-backend/.env
